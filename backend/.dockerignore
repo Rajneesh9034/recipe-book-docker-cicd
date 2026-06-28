@@ -1,0 +1,40 @@
+# Dependencies
+node_modules
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+
+# Tests
+coverage
+
+# Temporary files
+tmp
+temp
+
+# Documentation
+README.md
+
+# Uploads (optional)
+uploads
