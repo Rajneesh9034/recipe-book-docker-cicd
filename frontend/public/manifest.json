@@ -1,0 +1,48 @@
+{
+  "short_name": "RecipeBook",
+  "name": "Recipe Book - Your Personal Recipe Collection",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "Add Recipe",
+      "short_name": "Add",
+      "description": "Add a new recipe",
+      "url": "/add",
+      "icons": [
+        {
+          "src": "add-icon.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "My Recipes",
+      "short_name": "My Recipes",
+      "description": "View your recipes",
+      "url": "/my-recipes"
+    }
+  ]
+}
