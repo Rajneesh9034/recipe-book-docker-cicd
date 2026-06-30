@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
             <FaUtensils className="text-2xl text-blue-600" />
-            <span className="text-xl font-bold text-gray-800">Best RecipeBook</span>
+            <span className="text-xl font-bold text-gray-800">ash RecipeBook</span>
           </Link>
           
           <Link to="/add" className="btn-primary flex items-center space-x-2">
