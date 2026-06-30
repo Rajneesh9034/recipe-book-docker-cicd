@@ -14,7 +14,7 @@ const Navbar = () => {
           
           <Link to="/add" className="btn-primary flex items-center space-x-2">
             <FaPlus />
-            <span>Add Recipe</span>
+            <span>Add Recipe Rajneesh</span>
           </Link>
         </div>
       </div>
